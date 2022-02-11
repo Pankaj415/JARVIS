@@ -1,0 +1,7 @@
+{
+'open youtube': 'youtube.com',
+'open google': 'google.com',
+'open stackoverflow': 'stackoverflow.com',
+'open bing': 'bing.com',
+'open github': 'github.com'
+}
